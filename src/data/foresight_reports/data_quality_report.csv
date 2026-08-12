@@ -1,0 +1,14 @@
+metric,value
+Raw rows,1067372
+Raw columns,9
+Duplicate rows removed,34335
+Missing customer IDs,235152
+Descriptions filled as Unknown,4276
+Cancelled rows,19104
+Clean sales rows,1007913
+Unique SKUs,4916
+Unique sales dates,604
+sales_daily rows,532838
+sku_master rows,4916
+calendar rows,739
+Inventory table available,False

@@ -1,0 +1,39 @@
+# ==========================================
+# Data Files (Ignore large/generated files)
+# ==========================================
+# Ignore raw data files
+src/data/*.xlsx
+src/data/*.xls
+src/data/*.csv
+
+# Ignore large generated transaction files
+# Ignore large processed files and raw data
+src/data/foresight_data/processed/clean_transactions.csv
+src/data/online_retail_II.xlsx
+.DS_Store
+
+# ==========================================
+# Keep Small Summary CSVs in Git (Optional)
+# ==========================================
+# Uncomment these if you want team members to have instant access to small tables:
+# !src/data/foresight_data/processed/sku_master.csv
+# !src/data/foresight_data/processed/calendar.csv
+
+# ==========================================
+# Python & Jupyter Housekeeping
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================================
+# Virtual Environments & IDE Configs
+# ==========================================
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+*.DS_Store
