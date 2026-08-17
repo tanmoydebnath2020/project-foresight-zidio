@@ -1,0 +1,5 @@
+method,mean_wape
+trailing_8wk_mean,0.7117509836003948
+trailing_4wk_mean,0.7331474895705751
+persistence_last_week,0.8399713295063667
+seasonal_naive (required baseline),1.1161846601395975
