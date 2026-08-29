@@ -1,0 +1,30 @@
+{
+  "cv_folds": [
+    {
+      "fold_cutoff": "2011-10-10",
+      "baseline_WAPE": 0.7933539734111849,
+      "lgbm_WAPE": 0.6923009891560993
+    },
+    {
+      "fold_cutoff": "2011-08-15",
+      "baseline_WAPE": 0.8398194198738276,
+      "lgbm_WAPE": 0.7177213603451973
+    },
+    {
+      "fold_cutoff": "2011-06-20",
+      "baseline_WAPE": 0.8301731489253975,
+      "lgbm_WAPE": 0.7748718720243338
+    }
+  ],
+  "avg_baseline_wape": 0.8211155140701366,
+  "avg_lgbm_wape": 0.7282980738418767,
+  "prophet_wape_top15": 0.665,
+  "lgbm_wape_top15": 0.588,
+  "baseline_wape_top15": 0.696,
+  "horizon_weeks": 8,
+  "n_skus": 200,
+  "data_date_range": [
+    "2009-12-01",
+    "2011-12-09"
+  ]
+}
