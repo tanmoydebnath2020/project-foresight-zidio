@@ -60,8 +60,8 @@ app/
 ## Installation
 
 # 1. Clone the repository
-git clone [https://github.com/your-username/foresight-northbay.git](https://github.com/your-username/foresight-northbay.git)
-cd foresight-northbay
+git clone https://github.com/tanmoydebnath2020/project-foresight-zidio
+cd foresight_streamlit_app/app
 
 # 2. Install dependencies
 pip install -r requirements.txt
